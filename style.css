@@ -1,0 +1,50 @@
+h1{
+   color: #FF0FF2; 
+}
+body{
+  background-color: #00ffff;
+}
+      *{
+        margin: 20px;
+        padding: 20px;
+    }
+  .header{
+      background-color: #000000
+  }  
+  .text{
+    background-color: #C0D;
+ }
+ .mango{
+    background-color: #12C;
+}
+.info{
+   color: #fafad2; 
+   flex-wrap: wrap;
+   align-content: stretch;
+   justify-content: space-evenly;
+   background-color: #ABCD99;
+} 
+.linktext{
+    background-color: #343AEC;
+}
+.link:hover a {
+  opacity: 1;
+}
+.link{
+    background-color: #9FF180
+    }
+ .jill {
+   color: #800000;
+ }   
+.link a{
+  opacity: 0;
+  color: #F09;
+}    
+  a{
+    color: #f3b894; 
+  }
+ .wiki{
+   background-color: #800000;
+
+ }
+ 
